@@ -1,3 +1,17 @@
+## Description
+
+NestJS training project. Lots of space for creativity and improvement.
+
+## Env example
+
+PORT = 5000
+POSTGRES_HOST = localhost
+POSTGRES_USER = postgres
+POSTGRES_DB = nestf
+POSTGRES_PASSWORD = root
+POSTGRES_PORT = 5432
+PRIVATE_KEY = secret_key
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
